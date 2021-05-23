@@ -6,7 +6,7 @@
  
 | **Id** | FirstName      | LastName | PhoneNumber |  Address |
 | ------| ---------------|-----------|-------------|----------|
-| 1     |   Yasin        |  Özer     | +905061233423 | Github |
+| 1     |   Yasin        |  Özer     | +905061233423 | [Github](https://github.com/OzerBey) |
 
   <hr>
 </details>
