@@ -12,4 +12,4 @@
 
 # LICENCE
 
-[MIT](https://github.com/OzerBey/WtDataAccess)
+[MIT](https://github.com/OzerBey/WtDataAccess/blob/master/LICENCE.txt)
