@@ -11,7 +11,7 @@ namespace EfAddressBook.Models
     {
         public AddressBookContext()
         {
-            Database.EnsureCreated(); //means create if database does not exist 
+            Database.EnsureCreated(); //means create if database does not exist in current project
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WHkG5ZIazABGFjrzs/lkHSaV2XmZaB6TqUUJz1BWU4hOOH2Isn85kaq06oHDHlHHiQelp06O0p5FX4yKmOgjTA==",
+  "dgSpecHash": "9z4BE85EWYoxOMsqMcBGOdBAyoCLHGDiAocTiSp6GHPmR6NWHEvXcSAF5kwTc9b3Jj4lAFOs3tSmIuK28W5uxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ysnoz\\source\\repos\\WebTasarımVeriErişim\\AdoNetGiris\\AdoNetGiris.csproj",
+  "projectFilePath": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdoNetGiris\\IntroAdoNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ysnoz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ysnoz\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

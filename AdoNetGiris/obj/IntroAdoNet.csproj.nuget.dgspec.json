@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\EfAddressBook\\EfAddressBook.csproj": {}
+    "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdoNetGiris\\IntroAdoNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\EfAddressBook\\EfAddressBook.csproj": {
+    "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdoNetGiris\\IntroAdoNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\EfAddressBook\\EfAddressBook.csproj",
-        "projectName": "EfAddressBook",
-        "projectPath": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\EfAddressBook\\EfAddressBook.csproj",
+        "projectUniqueName": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdoNetGiris\\IntroAdoNet.csproj",
+        "projectName": "IntroAdoNet",
+        "projectPath": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdoNetGiris\\IntroAdoNet.csproj",
         "packagesPath": "C:\\Users\\ysnoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\EfAddressBook\\obj\\",
+        "outputPath": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdoNetGiris\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ysnoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,16 +37,12 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[5.0.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.6, )"
+              "version": "[4.8.2, )"
             }
           },
           "imports": [
@@ -62,9 +58,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"

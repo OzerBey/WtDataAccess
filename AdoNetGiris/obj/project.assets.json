@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ysnoz\\source\\repos\\WebTasarımVeriErişim\\AdoNetGiris\\AdoNetGiris.csproj",
-      "projectName": "AdoNetGiris",
-      "projectPath": "C:\\Users\\ysnoz\\source\\repos\\WebTasarımVeriErişim\\AdoNetGiris\\AdoNetGiris.csproj",
+      "projectUniqueName": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdoNetGiris\\IntroAdoNet.csproj",
+      "projectName": "IntroAdoNet",
+      "projectPath": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdoNetGiris\\IntroAdoNet.csproj",
       "packagesPath": "C:\\Users\\ysnoz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ysnoz\\source\\repos\\WebTasarımVeriErişim\\AdoNetGiris\\obj\\",
+      "outputPath": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdoNetGiris\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ysnoz\\AppData\\Roaming\\NuGet\\NuGet.Config",

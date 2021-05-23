@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mM+e6DhEFLY54CoPBHNbOAPMvee803mkOmV4iwfuUA6M6VTMhBsGwB8idKgFcrBoalKAp9yp7Ap2nDeh8/0jKQ==",
+  "dgSpecHash": "TxKcMrrvtpDii1oTBMyQhcMmL5V/CZ5voqKIwagFevgBwSHM7EktHsX/D2uVC6n77QwE8QKlzHz4uaHjjj0QjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ysnoz\\source\\repos\\WebTasarımVeriErişim\\AdressBook\\AdressBook.csproj",
+  "projectFilePath": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\AdressBook\\AdressBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ysnoz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ysnoz\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c6XklpEeh/+9uYG6941XilclItxu3OFzGohz+EseEFlnAZ919wt/vV1uiIDd1loQ2Pb4Gtddn22dA5EOGcpSmg==",
+  "dgSpecHash": "dc+cZBDI+u5h9sxtwPAXpQbvgQkGVqcbuHR5X2S6loOm5V2of8U5mQb6kKRPLPbMWiDt4yk1KJmYMZUSMSwd0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ysnoz\\source\\repos\\WebTasarımVeriErişim\\EfAddressBook\\EfAddressBook.csproj",
+  "projectFilePath": "C:\\Users\\ysnoz\\source\\repos\\WTDataAccessForms\\EfAddressBook\\EfAddressBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ysnoz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ysnoz\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
